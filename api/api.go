@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/goodwitchh/GoRaider/tree/main/rpc"
-	"github.com/goodwitchh/GoRaider/tree/main/utils"
+	"github.com/goodwitchh/pornk/tree/main/api"
+	"github.com/goodwitchh/pornk/tree/main/utils"
 	"github.com/fatih/color"
 	"github.com/valyala/fastjson"
 )
