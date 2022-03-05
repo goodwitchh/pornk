@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/goodwitchh/GoRaider/tree/main/utils"
+	"github.com/goodwitchh/pornk/tree/main/utils"
 	"github.com/valyala/fastjson"
 )
 
