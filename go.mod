@@ -8,7 +8,7 @@ require (
 	github.com/valyala/fasthttp v1.20.0
 	github.com/valyala/fastjson v1.6.3
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce // indirect
-    github.com/goodwitchh/pornk/tree/main/utils v0.0.0
+        github.com/goodwitchh/pornk/tree/main/utils v0.0.0
 	github.com/goodwitchh/pornk/tree/main/api v0.0.0
 
 )
